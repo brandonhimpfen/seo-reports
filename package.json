@@ -1,0 +1,35 @@
+{
+  "name": "seo-reports",
+  "version": "0.1.0",
+  "description": "Generate simple SEO report summaries from validation and monitoring data.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "seo",
+    "reports",
+    "reporting",
+    "summaries",
+    "metadata",
+    "publishing",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonhimpfen/seo-reports.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/seo-reports/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/seo-reports#readme",
+  "author": "Brandon Himpfen",
+  "license": "MIT"
+}
